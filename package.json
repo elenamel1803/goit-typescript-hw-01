@@ -1,7 +1,6 @@
 {
   "name": "goit-typescript-hw-01",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch",
@@ -20,5 +19,6 @@
   "homepage": "https://github.com/elenamel1803/goit-typescript-hw-01#readme",
   "devDependencies": {
     "@web/dev-server": "^0.4.3"
-  }
+  },
+  "description": ""
 }
